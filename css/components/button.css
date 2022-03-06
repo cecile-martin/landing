@@ -1,0 +1,14 @@
+.btn-beige{
+	background-color: #BF9270;
+	color: white;
+	padding: 8px 16px;
+	letter-spacing: 1px;
+	border-radius: 10px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.btn-beige:hover{
+	background-color: #6C4A4A;
+	color: white;
+}

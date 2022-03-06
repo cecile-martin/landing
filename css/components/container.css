@@ -1,0 +1,28 @@
+.container{
+	margin: 80px auto;
+	padding-left: 40px;
+	text-align: start;
+}
+
+.container-background{
+	background-color: rgba(211, 228, 205, 0.4);
+}
+
+@media (max-width: 960px){
+
+	.container{
+		width: 700px;
+	}
+}
+
+@media (max-width: 720px){
+	.container{
+		width: 500px;
+	}
+}
+
+@media (max-width: 540px){
+	.container{
+		width: 300px;
+	}
+}
